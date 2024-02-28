@@ -1,43 +1,52 @@
-<h1 align="center">
-    <picture>
+<div class="Box-sc-g0xbh4-0 bJMeLZ js-snippet-clipboard-copy-unpositioned" data-hpc="true"><article class="markdown-body entry-content container-lg" itemprop="text"><div class="markdown-heading" dir="auto"><h1 align="center" tabindex="-1" class="heading-element" dir="auto">
+    <themed-picture data-catalyst-inline="true" data-catalyst=""><picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github.com/atopile/atopile/assets/9785003/00f19584-18a2-4b5f-9ce4-1248798974dd">
-    <source media="(prefers-color-scheme: light)" src="https://github.com/atopile/atopile/assets/9785003/d38941c1-d7c1-42e6-9b94-a62a0996bc19">
-    <img alt="Shows a black logo in light color mode and a white one in dark color mode." src="https://github.com/atopile/atopile/assets/9785003/d38941c1-d7c1-42e6-9b94-a62a0996bc19">
-    </picture>
-</h1>
-
-<div align="center">
+    <source media="(prefers-color-scheme: light)">
+    <img alt="在浅色模式下显示黑色徽标，在深色模式下显示白色徽标。" src="https://github.com/atopile/atopile/assets/9785003/d38941c1-d7c1-42e6-9b94-a62a0996bc19" style="visibility:visible;max-width:100%;">
+    </picture></themed-picture>
+</h1><a id="user-content---------------------" class="anchor-element" aria-label="永久链接：" href="#--------------------"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+<div align="center" dir="auto">
     <a href="#">
-        <img src="https://img.shields.io/pypi/v/atopile.svg" alt="Version" style="vertical-align:top; margin:6px 4px">
+        <img src="https://camo.githubusercontent.com/db5a78ad25480e339016935f19a974171e92d0b338def39bb47dc6ee6b2e1181/68747470733a2f2f696d672e736869656c64732e696f2f707970692f762f61746f70696c652e737667" alt="版本" data-canonical-src="https://img.shields.io/pypi/v/atopile.svg" style="max-width: 100%;">
     </a>
     <a href="#">
-        <img src="https://img.shields.io/github/license/atopile/atopile.svg" alt="License" style="vertical-align:top; margin:6px 4px">
+        <img src="https://camo.githubusercontent.com/0a22d9277af767b9d50257eb03ebf9b6f38214e77033f2090d93fa3c9f9252b1/68747470733a2f2f696d672e736869656c64732e696f2f6769746875622f6c6963656e73652f61746f70696c652f61746f70696c652e737667" alt="执照" data-canonical-src="https://img.shields.io/github/license/atopile/atopile.svg" style="max-width: 100%;">
     </a>
     <a href="#">
-        <img src="https://github.com/atopile/atopile/actions/workflows/ci.yml/badge.svg" alt="Build status" style="vertical-align:top; margin:6px 4px">
+        <img src="https://github.com/atopile/atopile/actions/workflows/ci.yml/badge.svg" alt="构建状态" style="max-width: 100%;">
     </a>
 </div>
-<h1 align="center">
+<div class="markdown-heading" dir="auto"><h1 align="center" tabindex="-1" class="heading-element" dir="auto">
     <br>
-        <img src="docs/assets/images/code-layout-pcb.png" alt="Logo atopile" title="Logo atopile" />
+        <a target="_blank" rel="noopener noreferrer" href="/atopile/atopile/blob/main/docs/assets/images/code-layout-pcb.png"><img src="/atopile/atopile/raw/main/docs/assets/images/code-layout-pcb.png" alt="徽标 atopile" title="徽标 atopile" style="max-width: 100%;"></a>
     <br>
-</h1>
+</h1><a id="user-content-----------------" class="anchor-element" aria-label="永久链接：" href="#----------------"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+<div class="markdown-heading" dir="auto"><h2 tabindex="-1" class="heading-element" dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">📖 什么是</font></font><code>atopile</code><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">？</font></font></h2><a id="user-content--what-is-atopile" class="anchor-element" aria-label="永久链接： 📖 什么是 atopile？" href="#-what-is-atopile"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+<p dir="auto"><code>atopile</code><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">是一种用代码构建电子电路板的工具。</font></font></p>
+<div class="markdown-heading" dir="auto"><h2 tabindex="-1" class="heading-element" dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">🗣️ 加入我们的 Discord</font></font></h2><a id="user-content-️-join-us-on-discord" class="anchor-element" aria-label="永久链接：🗣️ 加入我们的 Discord" href="#️-join-us-on-discord"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">您在电子行业有什么故事？</font><font style="vertical-align: inherit;">您希望我们建造什么？</font><font style="vertical-align: inherit;">来谈谈不和谐。</font></font></p>
+<p dir="auto"><a href="https://discord.gg/nr5V3QRUd3" rel="nofollow"><img src="https://camo.githubusercontent.com/66aa6a184ee1cd1f78052a5016e707f19bda6d40ee6f997635b844e9eb2a980d/68747470733a2f2f646973636f72646170702e636f6d2f6170692f6775696c64732f313032323533383132333931353330303836352f7769646765742e706e673f7374796c653d62616e6e657232" alt="不和谐横幅 3" data-canonical-src="https://discordapp.com/api/guilds/1022538123915300865/widget.png?style=banner2" style="max-width: 100%;"></a></p>
+<div class="markdown-heading" dir="auto"><h2 tabindex="-1" class="heading-element" dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">⚡️</font></font><code>ato</code><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">代码示例</font></font></h2><a id="user-content-️ato-code-examples" class="anchor-element" aria-label="永久链接：⚡️ato 代码示例" href="#️ato-code-examples"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+<div class="markdown-heading" dir="auto"><h3 tabindex="-1" class="heading-element" dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">简单的例子：</font></font></h3><a id="user-content-simple-examples" class="anchor-element" aria-label="永久链接：简单示例：" href="#simple-examples"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+<div class="markdown-heading" dir="auto"><h4 tabindex="-1" class="heading-element" dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">分压器</font></font></h4><a id="user-content-voltage-divider" class="anchor-element" aria-label="永久链接：分压器" href="#voltage-divider"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+<div class="highlight highlight-source-python notranslate position-relative overflow-auto" dir="auto"><pre><span class="pl-k">from</span> <span class="pl-s">"generics/resistors.ato"</span> <span class="pl-k">import</span> <span class="pl-v">Resistor</span>
 
-## 📖 What Is `atopile`?
-`atopile` is a tool to build electronic circuit boards with code.
+<span class="pl-s1">module</span> <span class="pl-v">VoltageDivider</span>:
+    <span class="pl-s1">signal</span> <span class="pl-s1">top</span>
+    <span class="pl-s1">signal</span> <span class="pl-s1">out</span>
+    <span class="pl-s1">signal</span> <span class="pl-s1">bottom</span>
 
-## 🗣️ Join Us On Discord
-What's your story in electronics? What would you like us to build? Come talk on discord.
+    <span class="pl-s1">r_top</span> <span class="pl-c1">=</span> <span class="pl-s1">new</span> <span class="pl-v">Resistor</span>
+    <span class="pl-s1">r_top</span>.<span class="pl-s1">footprint</span> <span class="pl-c1">=</span> <span class="pl-s">"R0402"</span>
+    <span class="pl-s1">r_top</span>.<span class="pl-s1">value</span> <span class="pl-c1">=</span> <span class="pl-c1">100</span><span class="pl-s1">kohm</span> <span class="pl-c1">+</span><span class="pl-c1">/</span><span class="pl-c1">-</span> <span class="pl-c1">10</span><span class="pl-c1">%</span>
 
-[![Discord Banner 3](https://discordapp.com/api/guilds/1022538123915300865/widget.png?style=banner2)](https://discord.gg/nr5V3QRUd3)
+    <span class="pl-s1">r_bottom</span> <span class="pl-c1">=</span> <span class="pl-s1">new</span> <span class="pl-v">Resistor</span>
+    <span class="pl-s1">r_bottom</span>.<span class="pl-s1">footprint</span> <span class="pl-c1">=</span> <span class="pl-s">"R0402"</span>
+    <span class="pl-s1">r_bottom</span>.<span class="pl-s1">value</span> <span class="pl-c1">=</span> <span class="pl-c1">200</span><span class="pl-s1">kohm</span> <span class="pl-c1">+</span><span class="pl-c1">/</span><span class="pl-c1">-</span> <span class="pl-c1">10</span><span class="pl-c1">%</span>
 
-## ⚡️`ato` Code Examples
-
-### Simple Examples:
-
-#### Voltage Divider
-```python
-from "generics/resistors.ato" import Resistor
+    <span class="pl-s1">top</span> <span class="pl-c1">~</span> <span class="pl-s1">r_top</span>.<span class="pl-s1">p1</span>; <span class="pl-s1">r_top</span>.<span class="pl-s1">p2</span> <span class="pl-c1">~</span> <span class="pl-s1">out</span>
+    <span class="pl-s1">out</span> <span class="pl-c1">~</span> <span class="pl-s1">r_bottom</span>.<span class="pl-s1">p1</span>; <span class="pl-s1">r_bottom</span>.<span class="pl-s1">p2</span> <span class="pl-c1">~</span> <span class="pl-s1">bottom</span></pre><div class="zeroclipboard-container">
+    <clipboard-copy aria-label="Copy" class="ClipboardButton btn btn-invisible js-clipboard-copy m-2 p-0 tooltipped-no-delay d-flex flex-justify-center flex-items-center" data-copy-feedback="Copied!" data-tooltip-direction="w" value="from &quot;generics/resistors.ato&quot; import Resistor
 
 module VoltageDivider:
     signal top
@@ -45,23 +54,45 @@ module VoltageDivider:
     signal bottom
 
     r_top = new Resistor
-    r_top.footprint = "R0402"
+    r_top.footprint = &quot;R0402&quot;
     r_top.value = 100kohm +/- 10%
 
     r_bottom = new Resistor
-    r_bottom.footprint = "R0402"
+    r_bottom.footprint = &quot;R0402&quot;
     r_bottom.value = 200kohm +/- 10%
 
     top ~ r_top.p1; r_top.p2 ~ out
-    out ~ r_bottom.p1; r_bottom.p2 ~ bottom
-```
+    out ~ r_bottom.p1; r_bottom.p2 ~ bottom" tabindex="0" role="button">
+      <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-copy js-clipboard-copy-icon">
+    <path d="M0 6.75C0 5.784.784 5 1.75 5h1.5a.75.75 0 0 1 0 1.5h-1.5a.25.25 0 0 0-.25.25v7.5c0 .138.112.25.25.25h7.5a.25.25 0 0 0 .25-.25v-1.5a.75.75 0 0 1 1.5 0v1.5A1.75 1.75 0 0 1 9.25 16h-7.5A1.75 1.75 0 0 1 0 14.25Z"></path><path d="M5 1.75C5 .784 5.784 0 6.75 0h7.5C15.216 0 16 .784 16 1.75v7.5A1.75 1.75 0 0 1 14.25 11h-7.5A1.75 1.75 0 0 1 5 9.25Zm1.75-.25a.25.25 0 0 0-.25.25v7.5c0 .138.112.25.25.25h7.5a.25.25 0 0 0 .25-.25v-7.5a.25.25 0 0 0-.25-.25Z"></path>
+</svg>
+      <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-check js-clipboard-check-icon color-fg-success d-none">
+    <path d="M13.78 4.22a.75.75 0 0 1 0 1.06l-7.25 7.25a.75.75 0 0 1-1.06 0L2.22 9.28a.751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018L6 10.94l6.72-6.72a.75.75 0 0 1 1.06 0Z"></path>
+</svg>
+    </clipboard-copy>
+  </div></div>
+<div class="markdown-heading" dir="auto"><h4 tabindex="-1" class="heading-element" dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">RP2040闪烁电路</font></font></h4><a id="user-content-rp2040-blinky-circuit" class="anchor-element" aria-label="永久链接：RP2040 闪烁电路" href="#rp2040-blinky-circuit"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+<div class="highlight highlight-source-python notranslate position-relative overflow-auto" dir="auto"><pre><span class="pl-k">import</span> <span class="pl-v">RP2040Kit</span> <span class="pl-s1">from</span> <span class="pl-s">"rp2040/rp2040_kit.ato"</span>
+<span class="pl-k">import</span> <span class="pl-v">LEDIndicator</span> <span class="pl-s1">from</span> <span class="pl-s">"generics/leds.ato"</span>
+<span class="pl-k">import</span> <span class="pl-v">LDOReg3V3</span> <span class="pl-s1">from</span> <span class="pl-s">"regulators/regulators.ato"</span>
+<span class="pl-k">import</span> <span class="pl-v">USBCConn</span> <span class="pl-s1">from</span> <span class="pl-s">"usb-connectors/usb-connectors.ato"</span>
 
-#### RP2040 Blinky Circuit
-```python
-import RP2040Kit from "rp2040/rp2040_kit.ato"
-import LEDIndicator from "generics/leds.ato"
-import LDOReg3V3 from "regulators/regulators.ato"
-import USBCConn from "usb-connectors/usb-connectors.ato"
+<span class="pl-s1">module</span> <span class="pl-v">Blinky</span>:
+    <span class="pl-s1">micro_controller</span> <span class="pl-c1">=</span> <span class="pl-s1">new</span> <span class="pl-v">RP2040Kit</span>
+    <span class="pl-s1">led_indicator</span> <span class="pl-c1">=</span> <span class="pl-s1">new</span> <span class="pl-v">LEDIndicator</span>
+    <span class="pl-s1">voltage_regulator</span> <span class="pl-c1">=</span> <span class="pl-s1">new</span> <span class="pl-v">LDOReg3V3</span>
+    <span class="pl-s1">usb_c_connector</span> <span class="pl-c1">=</span> <span class="pl-s1">new</span> <span class="pl-v">USBCConn</span>
+
+    <span class="pl-s1">usb_c_connector</span>.<span class="pl-s1">power</span> <span class="pl-c1">~</span> <span class="pl-s1">voltage_regulator</span>.<span class="pl-s1">power_in</span>
+    <span class="pl-s1">voltage_regulator</span>.<span class="pl-s1">power_out</span> <span class="pl-c1">~</span> <span class="pl-s1">micro_controller</span>.<span class="pl-s1">power</span>
+    <span class="pl-s1">micro_controller</span>.<span class="pl-s1">gpio13</span> <span class="pl-c1">~</span> <span class="pl-s1">led_indicator</span>.<span class="pl-s1">input</span>
+    <span class="pl-s1">micro_controller</span>.<span class="pl-s1">power</span>.<span class="pl-s1">gnd</span> <span class="pl-c1">~</span> <span class="pl-s1">led_indicator</span>.<span class="pl-s1">gnd</span>
+
+    <span class="pl-s1">led_indicator</span>.<span class="pl-s1">resistor</span>.<span class="pl-s1">value</span> <span class="pl-c1">=</span> <span class="pl-c1">100</span><span class="pl-s1">ohm</span> <span class="pl-c1">+</span><span class="pl-c1">/</span><span class="pl-c1">-</span> <span class="pl-c1">10</span><span class="pl-c1">%</span></pre><div class="zeroclipboard-container">
+    <clipboard-copy aria-label="Copy" class="ClipboardButton btn btn-invisible js-clipboard-copy m-2 p-0 tooltipped-no-delay d-flex flex-justify-center flex-items-center" data-copy-feedback="Copied!" data-tooltip-direction="w" value="import RP2040Kit from &quot;rp2040/rp2040_kit.ato&quot;
+import LEDIndicator from &quot;generics/leds.ato&quot;
+import LDOReg3V3 from &quot;regulators/regulators.ato&quot;
+import USBCConn from &quot;usb-connectors/usb-connectors.ato&quot;
 
 module Blinky:
     micro_controller = new RP2040Kit
@@ -74,41 +105,34 @@ module Blinky:
     micro_controller.gpio13 ~ led_indicator.input
     micro_controller.power.gnd ~ led_indicator.gnd
 
-    led_indicator.resistor.value = 100ohm +/- 10%
-```
-
-### Full Projects
-
-Checkout out the [servo drive project](https://github.com/atopile/spin-servo-drive) or the [logic card project](https://github.com/timot05/logic-card).
-
-## 🔨 Getting Started
-
-Find our [documentation](https://atopile.io/getting-started/) and getting started [video](https://www.youtube.com/watch?v=7aeZLlA_VYA).
-
-`atopile` is on pypi.org: https://pypi.org/project/atopile/
-
-### Most Basic Installation
-
-`atopile` requires *python3.11* or later, which you can install using your package manager or from [python.org](https://www.python.org/downloads/).
-
-Then just `pip install atopile` and you're good to go!
-
-## ❓ Why Atopile?
-
-The objective of atopile is to help push forward these pardiagrams from the software world to hardware, mainly these points:
-
-* **Intelligent Design Capture**: Define hardware specifications like ratios and tolerances in code, enabling precise control and easy reuse of designs.
-* **Version Control Integration**: Use git to manage design changes, facilitating collaboration and ensuring each iteration is thoroughly reviewed and validated.
-* **Continuous Integration (CI)**: Implement CI to guarantee high-quality, compliant designs with every commit, represented by a green checkmark for assurance.
-
-Describing hardware with code might seem odd at first glance. But once you realize it introduces software development paradigms and toolchains to hardware design, you'll be hooked, just like we've become.
-
-Code can **capture the intelligence** you put into your work. Imagine configuring not the resistance values of a voltage divider, but its ratio and total resistance, all using **physical units** and **tolerances**. You can do this because someone before you described precisely what this module is and described the relationships between the values of the components and the function you care about. Now instead imagine what you can gain from **reusing** a buck design you can merely **configure** the target voltage and ripple of. Now imagine **installing** a [servo drive](https://github.com/atopile/spin-servo-drive) the same way you might numpy.
-
-Version controlling your designs using **git** means you can deeply **validate** and **review** changes a feature at a time, **isolated** from impacting others' work. It means you can detangle your organisation and **collaborate** on an unprecedented scale. We can forgo half-baked "releases" in favor of stamping a simple git-hash on our prototypes, providing an anchor off which to **associate test data** and expectations.
-
-Implementing CI to **test** our work ensures both **high-quality** and **compliance**, all summarised in a green check mark, emboldening teams to target excellence.
-
-## 🔍 Discover what people build
-
-Browse and submit your modules at [packages.atopile.io](https://packages.atopile.io)
+    led_indicator.resistor.value = 100ohm +/- 10%" tabindex="0" role="button">
+      <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-copy js-clipboard-copy-icon">
+    <path d="M0 6.75C0 5.784.784 5 1.75 5h1.5a.75.75 0 0 1 0 1.5h-1.5a.25.25 0 0 0-.25.25v7.5c0 .138.112.25.25.25h7.5a.25.25 0 0 0 .25-.25v-1.5a.75.75 0 0 1 1.5 0v1.5A1.75 1.75 0 0 1 9.25 16h-7.5A1.75 1.75 0 0 1 0 14.25Z"></path><path d="M5 1.75C5 .784 5.784 0 6.75 0h7.5C15.216 0 16 .784 16 1.75v7.5A1.75 1.75 0 0 1 14.25 11h-7.5A1.75 1.75 0 0 1 5 9.25Zm1.75-.25a.25.25 0 0 0-.25.25v7.5c0 .138.112.25.25.25h7.5a.25.25 0 0 0 .25-.25v-7.5a.25.25 0 0 0-.25-.25Z"></path>
+</svg>
+      <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-check js-clipboard-check-icon color-fg-success d-none">
+    <path d="M13.78 4.22a.75.75 0 0 1 0 1.06l-7.25 7.25a.75.75 0 0 1-1.06 0L2.22 9.28a.751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018L6 10.94l6.72-6.72a.75.75 0 0 1 1.06 0Z"></path>
+</svg>
+    </clipboard-copy>
+  </div></div>
+<div class="markdown-heading" dir="auto"><h3 tabindex="-1" class="heading-element" dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">完整项目</font></font></h3><a id="user-content-full-projects" class="anchor-element" aria-label="永久链接：完整项目" href="#full-projects"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">检查</font></font><a href="https://github.com/atopile/spin-servo-drive"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">伺服驱动器项目</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">或</font></font><a href="https://github.com/timot05/logic-card"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">逻辑卡项目</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">。</font></font></p>
+<div class="markdown-heading" dir="auto"><h2 tabindex="-1" class="heading-element" dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">🔨 开始使用</font></font></h2><a id="user-content--getting-started" class="anchor-element" aria-label="永久链接：🔨 入门" href="#-getting-started"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">查找我们的</font></font><a href="https://atopile.io/getting-started/" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">文档</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">和入门</font></font><a href="https://www.youtube.com/watch?v=7aeZLlA_VYA" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">视频</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">。</font></font></p>
+<p dir="auto"><code>atopile</code><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">位于 pypi.org 上：https: </font></font><a href="https://pypi.org/project/atopile/" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">//pypi.org/project/atopile/</font></font></a></p>
+<div class="markdown-heading" dir="auto"><h3 tabindex="-1" class="heading-element" dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">最基本的安装</font></font></h3><a id="user-content-most-basic-installation" class="anchor-element" aria-label="永久链接：最基本的安装" href="#most-basic-installation"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+<p dir="auto"><code>atopile</code><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">需要</font></font><em><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">python3.11</font></font></em><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">或更高版本，您可以使用包管理器或从</font></font><a href="https://www.python.org/downloads/" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">python.org</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">安装。</font></font></p>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">然后就</font></font><code>pip install atopile</code><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">可以开始了！</font></font></p>
+<div class="markdown-heading" dir="auto"><h2 tabindex="-1" class="heading-element" dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">❓ 为什么选择阿托皮尔？</font></font></h2><a id="user-content--why-atopile" class="anchor-element" aria-label="永久链接：❓ 为什么选择 Atopile？" href="#-why-atopile"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">atopile的目标是帮助将这些语言图从软件世界推进到硬件世界，主要有以下几点：</font></font></p>
+<ul dir="auto">
+<li><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">智能设计捕获</font></font></strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">：定义硬件规格，例如代码中的比率和公差，从而实现精确控制和轻松重用设计。</font></font></li>
+<li><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">版本控制集成</font></font></strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">：使用 git 管理设计变更，促进协作并确保每次迭代都得到彻底的审查和验证。</font></font></li>
+<li><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">持续集成 (CI)</font></font></strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">：实施 CI 以保证每次提交都具有高质量、合规的设计，以绿色复选标记表示保证。</font></font></li>
+</ul>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">乍一看，用代码描述硬件可能看起来很奇怪。</font><font style="vertical-align: inherit;">但是，一旦您意识到它将软件开发范例和工具链引入到硬件设计中，您就会被迷住，就像我们一样。</font></font></p>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">代码可以捕捉</font><font style="vertical-align: inherit;">您在工作中投入的</font></font><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">智慧。</font></font></strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">想象一下，配置的不是分压器的电阻值，而是其比率和总电阻，所有这些都使用</font></font><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">物理单位</font></font></strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">和</font></font><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">公差</font></font></strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">。</font><font style="vertical-align: inherit;">您可以这样做，因为在您之前有人准确地描述了该模块是什么，并描述了组件值与您关心的功能之间的关系。</font></font><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">现在想象一下，通过重复使用</font></font></strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">降压设计</font><font style="vertical-align: inherit;">可以获得什么，您只需</font></font><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">配置</font></font></strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">目标电压和纹波。</font><font style="vertical-align: inherit;">现在想象一下</font><font style="vertical-align: inherit;">以与 numpy 相同的方式</font></font><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">安装</font></font></strong><font style="vertical-align: inherit;"></font><a href="https://github.com/atopile/spin-servo-drive"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">伺服驱动器</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">。</font></font></p>
+<p dir="auto"><font style="vertical-align: inherit;"></font><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">使用git</font></font></strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">对设计进行版本控制</font><font style="vertical-align: inherit;">意味着您可以</font><font style="vertical-align: inherit;">一次深入</font></font><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">验证</font></font></strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">和</font></font><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">审查功能更改，</font></font></strong><font style="vertical-align: inherit;"></font><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">而不会</font></font></strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">影响其他人的工作。</font><font style="vertical-align: inherit;">这意味着您可以理清组织并</font><font style="vertical-align: inherit;">以前所未有的规模</font></font><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">进行协作。</font></font></strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">我们可以放弃半生不熟的“发布”，转而在我们的原型上标记一个简单的 git-hash，提供一个将</font></font><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">测试数据</font></font></strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">和期望关联起来的锚点。</font></font></p>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">实施 CI 来</font></font><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">测试</font></font></strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">我们的工作可确保</font></font><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">高质量</font></font></strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">和合</font></font><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">规性</font></font></strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">，所有这些都以绿色复选标记进行总结，鼓励团队追求卓越。</font></font></p>
+<div class="markdown-heading" dir="auto"><h2 tabindex="-1" class="heading-element" dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">🔍 发现人们建造了什么</font></font></h2><a id="user-content--discover-what-people-build" class="anchor-element" aria-label="永久链接：🔍 发现人们建造了什么" href="#-discover-what-people-build"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+<p dir="auto"><font style="vertical-align: inherit;"><a href="https://packages.atopile.io" rel="nofollow"><font style="vertical-align: inherit;">在packages.atopile.io</font></a><font style="vertical-align: inherit;">浏览并提交您的模块</font></font><a href="https://packages.atopile.io" rel="nofollow"><font style="vertical-align: inherit;"></font></a></p>
+</article></div>
