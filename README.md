@@ -18,7 +18,7 @@
 </div>
 <div class="markdown-heading" dir="auto"><h1 align="center" tabindex="-1" class="heading-element" dir="auto">
     <br>
-        <a target="_blank" rel="noopener noreferrer" href="/atopile/atopile/blob/main/docs/assets/images/code-layout-pcb.png"><img src="/atopile/atopile/raw/main/docs/assets/images/code-layout-pcb.png" alt="徽标 atopile" title="徽标 atopile" style="max-width: 100%;"></a>
+        <a target="_blank" rel="noopener noreferrer" href="https://github.com/atopile/atopile/blob/main/docs/assets/images/code-layout-pcb.png"><img src="https://github.com/atopile/atopile/raw/main/docs/assets/images/code-layout-pcb.png" alt="徽标 atopile" title="徽标 atopile" style="max-width: 100%;"></a>
     <br>
 </h1><a id="user-content-----------------" class="anchor-element" aria-label="永久链接：" href="#----------------"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
 <div class="markdown-heading" dir="auto"><h2 tabindex="-1" class="heading-element" dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">📖 什么是</font></font><code>atopile</code><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">？</font></font></h2><a id="user-content--what-is-atopile" class="anchor-element" aria-label="永久链接： 📖 什么是 atopile？" href="#-what-is-atopile"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
@@ -46,30 +46,7 @@
 
     <span class="pl-s1">top</span> <span class="pl-c1">~</span> <span class="pl-s1">r_top</span>.<span class="pl-s1">p1</span>; <span class="pl-s1">r_top</span>.<span class="pl-s1">p2</span> <span class="pl-c1">~</span> <span class="pl-s1">out</span>
     <span class="pl-s1">out</span> <span class="pl-c1">~</span> <span class="pl-s1">r_bottom</span>.<span class="pl-s1">p1</span>; <span class="pl-s1">r_bottom</span>.<span class="pl-s1">p2</span> <span class="pl-c1">~</span> <span class="pl-s1">bottom</span></pre><div class="zeroclipboard-container">
-    <clipboard-copy aria-label="Copy" class="ClipboardButton btn btn-invisible js-clipboard-copy m-2 p-0 tooltipped-no-delay d-flex flex-justify-center flex-items-center" data-copy-feedback="Copied!" data-tooltip-direction="w" value="from &quot;generics/resistors.ato&quot; import Resistor
-
-module VoltageDivider:
-    signal top
-    signal out
-    signal bottom
-
-    r_top = new Resistor
-    r_top.footprint = &quot;R0402&quot;
-    r_top.value = 100kohm +/- 10%
-
-    r_bottom = new Resistor
-    r_bottom.footprint = &quot;R0402&quot;
-    r_bottom.value = 200kohm +/- 10%
-
-    top ~ r_top.p1; r_top.p2 ~ out
-    out ~ r_bottom.p1; r_bottom.p2 ~ bottom" tabindex="0" role="button">
-      <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-copy js-clipboard-copy-icon">
-    <path d="M0 6.75C0 5.784.784 5 1.75 5h1.5a.75.75 0 0 1 0 1.5h-1.5a.25.25 0 0 0-.25.25v7.5c0 .138.112.25.25.25h7.5a.25.25 0 0 0 .25-.25v-1.5a.75.75 0 0 1 1.5 0v1.5A1.75 1.75 0 0 1 9.25 16h-7.5A1.75 1.75 0 0 1 0 14.25Z"></path><path d="M5 1.75C5 .784 5.784 0 6.75 0h7.5C15.216 0 16 .784 16 1.75v7.5A1.75 1.75 0 0 1 14.25 11h-7.5A1.75 1.75 0 0 1 5 9.25Zm1.75-.25a.25.25 0 0 0-.25.25v7.5c0 .138.112.25.25.25h7.5a.25.25 0 0 0 .25-.25v-7.5a.25.25 0 0 0-.25-.25Z"></path>
-</svg>
-      <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-check js-clipboard-check-icon color-fg-success d-none">
-    <path d="M13.78 4.22a.75.75 0 0 1 0 1.06l-7.25 7.25a.75.75 0 0 1-1.06 0L2.22 9.28a.751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018L6 10.94l6.72-6.72a.75.75 0 0 1 1.06 0Z"></path>
-</svg>
-    </clipboard-copy>
+     
   </div></div>
 <div class="markdown-heading" dir="auto"><h4 tabindex="-1" class="heading-element" dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">RP2040闪烁电路</font></font></h4><a id="user-content-rp2040-blinky-circuit" class="anchor-element" aria-label="永久链接：RP2040 闪烁电路" href="#rp2040-blinky-circuit"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
 <div class="highlight highlight-source-python notranslate position-relative overflow-auto" dir="auto"><pre><span class="pl-k">import</span> <span class="pl-v">RP2040Kit</span> <span class="pl-s1">from</span> <span class="pl-s">"rp2040/rp2040_kit.ato"</span>
@@ -89,30 +66,7 @@ module VoltageDivider:
     <span class="pl-s1">micro_controller</span>.<span class="pl-s1">power</span>.<span class="pl-s1">gnd</span> <span class="pl-c1">~</span> <span class="pl-s1">led_indicator</span>.<span class="pl-s1">gnd</span>
 
     <span class="pl-s1">led_indicator</span>.<span class="pl-s1">resistor</span>.<span class="pl-s1">value</span> <span class="pl-c1">=</span> <span class="pl-c1">100</span><span class="pl-s1">ohm</span> <span class="pl-c1">+</span><span class="pl-c1">/</span><span class="pl-c1">-</span> <span class="pl-c1">10</span><span class="pl-c1">%</span></pre><div class="zeroclipboard-container">
-    <clipboard-copy aria-label="Copy" class="ClipboardButton btn btn-invisible js-clipboard-copy m-2 p-0 tooltipped-no-delay d-flex flex-justify-center flex-items-center" data-copy-feedback="Copied!" data-tooltip-direction="w" value="import RP2040Kit from &quot;rp2040/rp2040_kit.ato&quot;
-import LEDIndicator from &quot;generics/leds.ato&quot;
-import LDOReg3V3 from &quot;regulators/regulators.ato&quot;
-import USBCConn from &quot;usb-connectors/usb-connectors.ato&quot;
-
-module Blinky:
-    micro_controller = new RP2040Kit
-    led_indicator = new LEDIndicator
-    voltage_regulator = new LDOReg3V3
-    usb_c_connector = new USBCConn
-
-    usb_c_connector.power ~ voltage_regulator.power_in
-    voltage_regulator.power_out ~ micro_controller.power
-    micro_controller.gpio13 ~ led_indicator.input
-    micro_controller.power.gnd ~ led_indicator.gnd
-
-    led_indicator.resistor.value = 100ohm +/- 10%" tabindex="0" role="button">
-      <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-copy js-clipboard-copy-icon">
-    <path d="M0 6.75C0 5.784.784 5 1.75 5h1.5a.75.75 0 0 1 0 1.5h-1.5a.25.25 0 0 0-.25.25v7.5c0 .138.112.25.25.25h7.5a.25.25 0 0 0 .25-.25v-1.5a.75.75 0 0 1 1.5 0v1.5A1.75 1.75 0 0 1 9.25 16h-7.5A1.75 1.75 0 0 1 0 14.25Z"></path><path d="M5 1.75C5 .784 5.784 0 6.75 0h7.5C15.216 0 16 .784 16 1.75v7.5A1.75 1.75 0 0 1 14.25 11h-7.5A1.75 1.75 0 0 1 5 9.25Zm1.75-.25a.25.25 0 0 0-.25.25v7.5c0 .138.112.25.25.25h7.5a.25.25 0 0 0 .25-.25v-7.5a.25.25 0 0 0-.25-.25Z"></path>
-</svg>
-      <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-check js-clipboard-check-icon color-fg-success d-none">
-    <path d="M13.78 4.22a.75.75 0 0 1 0 1.06l-7.25 7.25a.75.75 0 0 1-1.06 0L2.22 9.28a.751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018L6 10.94l6.72-6.72a.75.75 0 0 1 1.06 0Z"></path>
-</svg>
-    </clipboard-copy>
+   
   </div></div>
 <div class="markdown-heading" dir="auto"><h3 tabindex="-1" class="heading-element" dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">完整项目</font></font></h3><a id="user-content-full-projects" class="anchor-element" aria-label="永久链接：完整项目" href="#full-projects"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
 <p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">检查</font></font><a href="https://github.com/atopile/spin-servo-drive"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">伺服驱动器项目</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">或</font></font><a href="https://github.com/timot05/logic-card"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">逻辑卡项目</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">。</font></font></p>
